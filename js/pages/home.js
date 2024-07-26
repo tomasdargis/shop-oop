@@ -1,7 +1,3 @@
-import { layout } from "../components/layout.js";
+import { layout } from '../components/layout.js';
 
-const homePage = new layout();
-homePage.render();
-
-
-
+new layout();
